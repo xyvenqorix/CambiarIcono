@@ -15,6 +15,7 @@
 </p>
 
 ---
+**Release Descarga:** [Release](https://github.com/xyvenqorix/CambiarIcono/releases/tag/CambiarIcono)
 
 ## ✨ ¿Qué es?
 
